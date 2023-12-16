@@ -25,6 +25,16 @@ Welcome to the Infigo Assignment project! This repository contains a set of reus
 
 To use these components in your project, follow these steps:
 
+## Steps
+### Cammands
+
+bash
+1. npm create vite@latest
+2. npm install -D tailwindcss postcss autoprefixer
+   npx tailwindcss init -p
+3. npm sb init  
+```
+
 1. Clone the repository:
 
 ```bash
