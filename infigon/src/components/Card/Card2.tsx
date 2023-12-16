@@ -20,7 +20,7 @@ function Card2 ({
   label,
   ...props
 }) {
-  const mode = primary ? 'storybook-button--primary' : 'storybook-button--secondary';
+ 
   return (
     <>
         <div className='flex mb-4 justify-center'>
